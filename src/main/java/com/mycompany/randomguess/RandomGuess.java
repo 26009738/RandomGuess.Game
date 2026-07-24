@@ -28,7 +28,7 @@ public class RandomGuess {
             attempts++;
 
             if (guess == randomNumber) {
-                JOptionPane.showMessageDialog(null, "🎉 Correct! The number was " + randomNumber +
+                JOptionPane.showMessageDialog(null, " Correct! The number was " + randomNumber +
                         "\nYou guessed it in " + attempts + " attempts.");
                 break;
             } else if (guess < randomNumber) {
