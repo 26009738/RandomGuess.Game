@@ -8,6 +8,11 @@ package com.mycompany.randomguess;
  *
  * @author ROTONDWA
  */
+/*
+STUDENT DETAILS : NAME -> ROTONDWA
+                  SURNAME -> RAMUDZULI
+                  STUDENT NUMBER -> 26009738
+*/
 import javax.swing.JOptionPane;
 
 public class RandomGuess {
